@@ -1,1 +1,1 @@
-# hands_on_project
+# python and power bi project
