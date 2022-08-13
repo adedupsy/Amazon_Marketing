@@ -1,1 +1,2 @@
-# python and power bi project
+# Amazon marketing analysis
+This is a capstone project in FASAHA 4.0 internship,the amazon marketing data was given in csv format. The data was analyse using python and visualize on Power BI.The data wasnt totally clean has it has some missing values which was later dealth with ,some of the python libraries used are pandas,matplotlib pyplot and seaborn.the data was assesed and clean with pandas after which exploratory data analysis was carried out and the result was documented all along the way
